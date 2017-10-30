@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ```
 npm install jquery --save
-npm install --save-dev @types/jquery
+npm install --save @types/jquery
 npm install jquery-ui --save
 npm install --save @types/jqueryui
 npm install jquery-ui-dist --save
